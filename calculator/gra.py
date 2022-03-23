@@ -2,6 +2,7 @@ from tkinter import *
 from util.operator import *
 from util.tools import *
 from PIL import ImageTk, Image
+import math
 
 
 class Calc(Tk):
