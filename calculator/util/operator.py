@@ -1,4 +1,6 @@
 import math
+from functools import reduce
+import operator
 _tool = []
 def handler(self,operation,event = None):
     self.operation = operation
