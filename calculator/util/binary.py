@@ -36,5 +36,3 @@ def bi_equal(self):
         first_number = num_cont
     else:
         print("Invalid input")
-word = ['a','b','c']
-word.clear
