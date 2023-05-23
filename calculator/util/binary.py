@@ -1,3 +1,4 @@
+import math 
 def equal(self,operation,first_num):
     if operation == "sum":
         self.n_entry.get()
